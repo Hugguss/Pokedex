@@ -1,0 +1,170 @@
+[
+    {
+    "id": 1,
+    "name": "Bulbasaur",
+    "img": "https://images.wikidexcdn.net/mwuploads/wikidex/4/43/latest/20190406170624/Bulbasaur.png",
+    "type": [ "Grass"],
+    "base": {
+      "HP": 45,
+      "Attack": 49,
+      "Defense": 49,
+      "Sp_Attack": 65,
+      "Sp_Defense": 65,
+      "Speed": 45
+    }
+  },
+  {
+    "id": 2,
+    "name": "Charmander",
+    "img": "https://images.wikidexcdn.net/mwuploads/wikidex/5/56/latest/20200307023245/Charmander.png",    
+    "type":  ["Fire"] ,
+    "base": {
+      "HP": 39,
+      "Attack": 52,
+      "Defense": 43,
+      "Sp_Attack": 60,
+      "Sp_Defense": 50,
+      "Speed": 65
+    }
+  },
+  {
+    "id": 3,
+    "name": "Squirtle",
+    "img": "https://images.wikidexcdn.net/mwuploads/wikidex/e/e3/latest/20160309230820/Squirtle.png",    
+    "type": [ "Water"],
+    "base": {
+      "HP": 44,
+      "Attack": 48,
+      "Defense": 65,
+      "Sp_Attack": 50,
+      "Sp_Defense": 64,
+      "Speed": 43
+    }
+  },
+  {
+    "id": 4,
+    "name": "Butterfree",
+    "img": "https://images.wikidexcdn.net/mwuploads/wikidex/9/96/latest/20160703192952/Butterfree.png",    
+    "type": ["Bug"],
+    "base": {
+      "HP": 60,
+      "Attack": 45,
+      "Defense": 50,
+      "Sp_Attack": 90,
+      "Sp_Defense": 80,
+      "Speed": 70
+    }
+  },
+  {
+    "id": 5,
+    "name":  "Pidgeot",
+    "img": "https://images.wikidexcdn.net/mwuploads/wikidex/a/a9/latest/20141214190416/Pidgeot.png",    
+    "type":  ["Normal"],
+    "base": {
+      "HP": 83,
+      "Attack": 80,
+      "Defense": 75,
+      "Sp_Attack": 70,
+      "Sp_Defense": 70,
+      "Speed": 101
+    }
+  },
+  {
+    "id": 6,
+    "name": "Pikachu",
+    "img": "https://images.wikidexcdn.net/mwuploads/wikidex/7/77/latest/20150621181250/Pikachu.png",    
+    "type":  ["Electric"],
+    "base": {
+      "HP": 35,
+      "Attack": 55,
+      "Defense": 40,
+      "Sp_Attack": 50,
+      "Sp_Defense": 50,
+      "Speed": 90
+    }
+  },
+  {
+    "id": 7,
+    "name":  "Jigglypuff",
+    "img": "https://images.wikidexcdn.net/mwuploads/wikidex/4/40/latest/20180112041336/EP999_Jigglypuff.png",    
+    "type":  ["Normal"],
+    "base": {
+      "HP": 115,
+      "Attack": 45,
+      "Defense": 20,
+      "Sp_Attack": 45,
+      "Sp_Defense": 25,
+      "Speed": 20
+    }
+  },
+  {
+    "id": 8,
+    "name":  "Meowth",
+    "img": "https://images.wikidexcdn.net/mwuploads/wikidex/9/99/latest/20160904210550/Meowth.png",    
+    "type": ["Normal"] ,
+    "base": {
+      "HP": 40,
+      "Attack": 45,
+      "Defense": 35,
+      "Sp_Attack": 40,
+      "Sp_Defense": 40,
+      "Speed": 90
+    }
+  },
+  {
+    "id": 9,
+    "name": "Mewtwo",
+    "img": "https://images.wikidexcdn.net/mwuploads/wikidex/d/d3/latest/20190408034831/Mewtwo.png",    
+    "type": ["Psychic"] ,
+    "base": {
+      "HP": 106,
+      "Attack": 110,
+      "Defense": 90,
+      "Sp_Attack": 154,
+      "Sp_Defense": 90,
+      "Speed": 130
+    }
+  },
+  {
+    "id": 10,
+    "name": "Ampharos",
+    "img": "https://images.wikidexcdn.net/mwuploads/wikidex/f/f5/latest/20150621184738/Ampharos.png",    
+    "type":  ["Electric"],
+    "base": {
+      "HP": 90,
+      "Attack": 75,
+      "Defense": 85,
+      "Sp_Attack": 115,
+      "Sp_Defense": 90,
+      "Speed": 55
+    }
+  },
+  {
+    "id": 11,
+    "name":  "Kricketot",
+    "img": "https://images.wikidexcdn.net/mwuploads/wikidex/d/df/latest/20200720152403/Kricketot.png",    
+      "type": ["Electric"],
+      "base": {
+        "HP": 75,
+        "Attack": 99,
+        "Defense": 80,
+        "Sp_Attack": 110,
+        "Sp_Defense": 80,
+        "Speed": 55
+      }
+    },
+  {
+    "id": 12,
+    "name":  "Arceus",
+    "img": "https://images.wikidexcdn.net/mwuploads/wikidex/9/96/latest/20150601113031/Arceus.png",    
+    "type":  ["Normal"],
+    "base": {
+      "HP": 120,
+      "Attack": 120,
+      "Defense": 120,
+      "Sp_Attack": 120,
+      "Sp_Defense": 120,
+      "Speed": 120
+    }
+  }
+]
